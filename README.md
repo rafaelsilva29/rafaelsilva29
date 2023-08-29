@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+</div>
 
 <!--
 **rafaelsilva29/rafaelsilva29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
