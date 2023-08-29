@@ -63,6 +63,9 @@ I am a Full Software Engineer & ML Engineer  <img src="https://media.giphy.com/m
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafaelsilva29&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilva29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **rafaelsilva29/rafaelsilva29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
