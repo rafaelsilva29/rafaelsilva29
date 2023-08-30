@@ -29,7 +29,7 @@ I am a Full-Stack Software Engineer & ML Engineer  <img src="https://media.giphy
 
 - 🌱 Enjoy unifying areas of Machine Learning and Software Engineer into one.
 
-- ⚡ In my free time, if I'm not around the keyboard or not investigating a mysterious open source project, probably you can find me watching F1 or some nice TV series.
+- ⚡ In my free time, if I'm not around the keyboard or not investigating a mysterious open source project, probably you can find me watching F1 🏎️ or some nice TV series 📺.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafaelsilva29)
 
