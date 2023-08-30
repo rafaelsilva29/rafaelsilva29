@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me:
 
-I am a Full Software Engineer & ML Engineer  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="30"> from Portugal 🇵🇹.
+I am a Full-Stack Software Engineer & ML Engineer  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="30"> from Portugal 🇵🇹.
 
 - 🔭 I’m working as a Software Engineer at [Outhshift by Cisco](https://eti.cisco.com/) and contributing to open-source projects.
 
